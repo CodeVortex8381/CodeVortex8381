@@ -14,7 +14,7 @@
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center"><img src="https://github.com/CodeVortex8381/CodeVortex8381/blob/main/Logo's.png?raw=true" height="75px" alt="Language & Tools" algin="center"/></p>
+<p align="center"><img src="https://github.com/CodeVortex8381/CodeVortex8381/blob/main/Logo's.png?raw=true" height="75px" alt="C,HTML,CSS,JavaScript,Linux" algin="center"/></p>
 
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=codevortex8381&show_icons=true&locale=en&layout=compact" alt="codevortex8381" /></p>
 
