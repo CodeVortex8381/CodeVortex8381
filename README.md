@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codevortex8381" alt="codevortex8381" /></a> </p>
 
-<p align="center">🌱 I’m currently learning **C,HTML,CSS,JavaScript**<br>👨‍💻 All of my projects are available at [https://github.com/CodeVortex8381](https://github.com/CodeVortex8381)<br>📫 How to reach me **pranavtamanke8381@gmail.com**</p>
+<p align="center">🌱 I’m currently learning **C,HTML,CSS,JavaScript**<br>👨‍💻 All of my projects are available at <a href="https://github.com/CodeVortex8381">Github</a><br>📫 How to reach me **pranavtamanke8381@gmail.com**</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
